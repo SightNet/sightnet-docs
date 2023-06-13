@@ -13,6 +13,18 @@ Therefore, we don't depend on unfree services.
 We don't collect your confidential data and don't send it on unfree resources.
 Any user can start their own peer and crawl web. 
 
+## What's the difference between YaCy?
+
+YaCy uses [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table), so data shares between peers.
+But, in our opinion, it is right. Because database will be very big. 
+So, all computations will be processed on your PC.
+In our network, computations process on many nodes.
+
+There are pros:
+1. It cannot fight against censorship
+2. ...
+TODO
+
 ## [Crawling](https://en.wikipedia.org/wiki/Web_crawler)
 
 You point to the starting website(now, it can be only clearnet website), and crawler will visit one. 
