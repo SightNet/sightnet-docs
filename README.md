@@ -45,14 +45,14 @@ Data's ranking based on [bm25](https://en.wikipedia.org/wiki/Okapi_BM25) algorit
 
 ## Some data
 
-Sites count: 2000 millions
-Average words count on page: 1447
-Average count of pages on page: 50
+Sites count: 2000 millions<br>
+Average words count on page: 1447<br>
+Average count of pages on page: 50<br>
 Average page size: [30 kb](https://httparchive.org/reports/page-weight#bytesHtml)
 
 ## Some calculations
 
 SitesCount * PagesCount * PageSize
 
-**1000 the most popular websites with 300 pages:** 
+**1000 the most popular websites with 300 pages:** <br>
 1000 * 300 * 30 = 9 000 000 kb ≈ 8.5 GB
