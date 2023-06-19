@@ -20,10 +20,9 @@ But, in our opinion, it is right. Because database will be very big.
 So, all computations will be processed on your PC.
 In our network, computations process on many nodes.
 
-There are pros:
+There are cons:
 1. It cannot fight against censorship
-2. ...
-TODO
+2. From 1 it follows that if node will be disconnected from network, peers wont be able tk search in node's index.
 
 ## [Crawling](https://en.wikipedia.org/wiki/Web_crawler)
 
