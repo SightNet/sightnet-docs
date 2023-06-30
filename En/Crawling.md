@@ -1,0 +1,1 @@
+This is the process by which a search robot collects data from the site. It obeys the rules of robots.txt. And has a User-Agent: SightNet.

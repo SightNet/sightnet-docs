@@ -1,0 +1,1 @@
+这是一个搜索机器人从网站收集数据的过程。它遵守robots.txt的规则。并有一个User-Agent：SightNet。
